@@ -1,0 +1,22 @@
+git init dentro de la carpeta del proyecto
+#creamos archivo index
+
+git status or git status -status
+
+git add index.html
+
+git commit -m "primer archivo index"
+
+git status
+
+git branch nombre de rama #crea rama
+
+git branch # muestra las ramas 
+
+git chekcout nombre de rama # para cambiar de rama
+
+git branch -D nombredebranch # borrar branch
+
+git log --oneline  #es para ver los commit
+
+git checkout y agregar codigo de commit
